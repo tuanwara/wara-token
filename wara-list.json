@@ -1,0 +1,25 @@
+{
+    "name": "Wara Ecosystem List",
+    "timestamp": "2026-05-03T00:00:00Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/tuanwara/wara-token/refs/heads/main/wara-token.png",
+    "keywords": [
+        "wara",
+        "defi",
+        "sepolia"
+    ],
+    "tokens": [
+        {
+            "chainId": 11155111,
+            "address": "0xBe8CC1fb1AdB586E6058632d4605454173254086",
+            "name": "Wara Token",
+            "symbol": "WARA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tuanwara/wara-token/refs/heads/main/wara-token.png"
+        }
+    ]
+}
